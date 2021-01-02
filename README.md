@@ -1,5 +1,11 @@
 # DEB64
-Easily encode and decode Base64
+Easily encode and decode Base64. Input text into the first box. Then either encode the text to Base64 or decode it.
+
+Download directly from google extensions:
+
+https://chrome.google.com/webstore/detail/deb64/jojgeckbdgdgnngkibmdnidbainbcgjn?hl=en&authuser=0
+
+OR
 
 HOW TO INSTALL
 
